@@ -36,7 +36,7 @@ LiquidLink aspires to become the premier universal profile system within the Sui
 1. **Referral System**: We empower apps to seamlessly integrate our SDK for referral and point calculation functionalities, boosting user engagement and facilitating growth
 2. **Leaderboards Score**:
    - Empowering Fair Competition: Utilize LiquidLink's leaderboard scores to enhance transparency and fairness in Web3 and gaming communities.
-   - Deepen Member Relationships: Gain insights into your community dynamics and member engagement.
+   - Track users behaviour: Gain insights into your community dynamics and member engagement.
    - Personalized Activity Tracking: Monitor member activities through a customized dashboard, tailored to fit your specific needs.
    - On-Chain Scores:
        - Leverage the security of blockchain technology for maintaining and updating scores.
