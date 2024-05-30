@@ -85,7 +85,7 @@ These benefits collectively contribute to a stronger, more connected, and dynami
 ### Impact on the World
 - LiquidLink addresses the clear need for effective community engagement tools within the Sui ecosystem, providing a platform that empowers users to connect and grow together.
 - By fostering transparency and shared growth, LiquidLink contributes to building stronger and more connected communities, ultimately enriching the user experience and driving positive impact within the digital landscape.
-- We have an open source sdk that integrates with existing dapps.
+- LiquidLink provides an open-source SDK for seamless integration with existing dApps!
 
 ## Roadmap / Milestone 2024
 
