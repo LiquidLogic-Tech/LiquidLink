@@ -106,3 +106,10 @@ These benefits collectively contribute to a stronger, more connected, and dynami
 - **Web2 Integration**: Improve leaderboard connectivity by integrating with Web2 ecosystems.
 - **SocialFi Features**: Create an integrated messenger system complete with user profiles.
 - **PR & Media**: Collaborate with media outlets to amplify our presence and reach.
+
+
+### Reference
+- Frontend: https://github.com/LiquidLogic-Tech/liquid-link-app-v1
+- Backend: https://github.com/LiquidLogic-Tech/LiquidLink-backend
+- SDK: https://github.com/LiquidLogic-Tech/LiquidLink-sdk
+- Event Puller: https://github.com/LiquidLogic-Tech/LiquidLink-Dapp-Score-Event-Puller
