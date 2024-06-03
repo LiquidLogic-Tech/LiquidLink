@@ -1,4 +1,6 @@
 ## What is LiquidLink?
+![liquidlink](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/bc34b63d-585b-4579-8399-737000bc13a9)
+
 LiquidLink is revolutionizing the Sui ecosystem with an innovative platform that promotes community growth and engagement. With features like leaderboard scores, a referral function, and upcoming additions, our platform enhances interactions, cultivates transparency, and fosters shared growth. This empowers users to create a more connected and rewarding community experience within the Sui ecosystem.
 
 **Problem**: Lack of effective community engagement tools and platforms within the Sui ecosystem inhibits growth and connectivity.
