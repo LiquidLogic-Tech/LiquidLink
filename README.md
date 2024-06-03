@@ -29,12 +29,17 @@ LiquidLink is built on SUI due to its ease of integration and development effici
 
 Additionally, Enoki simplifies wallet onboarding with zkLogin, ensuring users easily access Web3 experiences via Sui. With Enoki's Gas Pool, sponsored transactions remove the hassle of funding wallets for gas fees, smoothing on-chain interactions. This seamless journey eliminates barriers, empowering users with effortless digital asset ownership.
 
+![LiquidLink- app zklogin2](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/a9018225-2c07-45c7-8742-2f3229bb403d)
+
+
 We leverage zkLogin for quick onboarding, allowing users to start with their Google account without needing a Sui wallet. This process not only enhances user experience but also links various wallets across apps to a single profile. LiquidLink consolidates all wallets, simplifying access and enhancing the management of assets. This integration enables thorough user analysis, providing insights for optimization and engagement.
 
 ## Vision Statement
 LiquidLink aspires to become the premier universal profile system within the Sui ecosystem, harnessing critical social data to foster trust and strengthen relationships between communities and projects. Our vision is of a future where collaboration and engagement are incentivized, paving the way for a united and flourishing Sui community.
 
 ## Product Features
+![key features](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/31684bce-84af-4bc8-b0e9-57613f6ff752)
+
 1. **Referral System**: We empower apps to seamlessly integrate our SDK for referral and point calculation functionalities, boosting user engagement and facilitating growth
 2. **Leaderboards Score**:
    - Empowering Fair Competition: Utilize LiquidLink's leaderboard scores to enhance transparency and fairness in Web3 and gaming communities.
@@ -45,6 +50,8 @@ LiquidLink aspires to become the premier universal profile system within the Sui
        - Enjoy the benefits of a system where scores are transparent, secure, and immutable.
 
 3. **Customized Profile & NFC Card/Sticker**
+![customizing profile](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/27cbafb8-8bdb-427d-ad06-226637dc6058)
+
    - Utilizes zkLogin for instant onboarding, enabling users to create customized profiles directly
    - Individual user dashboard displaying personal data, DeFi scores, rankings, airdrops, and rewards from all integrated projects
    - By linking users' diverse addresses to a unified on-chain DID profile, LiquidLink enables users to create comprehensive blockchain portfolios, empowering DApps with deeper insights into their user base.
@@ -54,6 +61,9 @@ LiquidLink aspires to become the premier universal profile system within the Sui
      As part of our promotional efforts, we've begun rolling out customized LiquidLink NFC cards/stickers to emphasize "instant connections" with just a single tap. Earn points by tapping your NFC card to connect, boosting your referral point and fostering Sui ecosystem growth through synergistic collaborations with other projects. (Coming Soon)
 
 ## Discover the Benefits of Integrating with LiquidLink
+![why integrate with liquidlink](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/7a592a0a-e8a5-4c9b-bbc4-6429141badd2)
+
+
 - Enhanced User Engagement: Leaderboard scoring and referral systems encourage active participation and community involvement. Additionally, NFC cards and stickers facilitate effortless social and network exchanges, further enhancing user experience.
 
 - Incentives and Referrals: Projects can offer rewards such as airdrop incentives, making participation financially beneficial.
@@ -90,6 +100,7 @@ These benefits collectively contribute to a stronger, more connected, and dynami
 - LiquidLink provides an open-source SDK for seamless integration with existing dApps!
 
 ## Roadmap / Milestone 2024
+![15](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/f9f1287a-369a-429e-b712-249097a39818)
 
 ### Q2 (APR - JUN) Foundation State
 - **Global Product Launch at Sui Basecamp Paris**: Rolled out our NFC Stickers/Cards.
