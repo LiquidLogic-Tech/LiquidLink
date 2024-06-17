@@ -78,6 +78,27 @@ LiquidLink aspires to become the premier universal profile system within the Sui
 
 These benefits collectively contribute to a stronger, more connected, and dynamically growing community within the Sui network.
 
+
+## Unlocking Revenue Potential (Business Model)
+
+Investor Appeal: The combination of high rebate potential and increased transaction activity offers a clear profitability path, making LiquidLink an attractive investment opportunity.
+
+User Fee Yields: Earn yields from transaction fees on LiquidLink as activity grows, ensuring a stable yield stream. Increased activity from games, community engagement, and other integrations can provide a steady yield stream through the accumulation of transaction fees
+
+Referral System Drives Engagement: Encourages user referrals to boost platform engagement and transaction volume, increasing economic activity and leading to potential profits shared with stakeholders as part of the platform's revenue model
+
+Gas Rebate Sharing: LiquidLink utilizes Sui’s gas rebate mechanism for additional returns, distributing a portion to investors, linking yield directly to blockchain operational savings and efficiencies
+
+Tokenomics (Coming Soon): Stake tokens to unlock features and earn revenue through revenue sharing and fees
+
+Profit from Clean-Up: Sui rewards users with 99% of the storage fees back when they delete outdated blockchain data. This means regular maintenance can actually generate significant profits. 
+
+More Transactions, More Rewards: As more projects use LiquidLink, transaction volumes on Sui increase, leading to more chances to earn rebates by clearing unnecessary data. Higher transaction volumes directly translate to higher potential earnings from rebates. 
+
+Keep the Network Healthy: The rebate system motivates everyone to keep the Sui blockchain lean and fast by removing old data, ensuring smooth operation and better performance for all users. 
+
+Share the Gains: LiquidLink plans to share up to 50% of its rebate earnings with its partners, making it financially beneficial for projects to integrate with us.
+
 ## Partnerships and Integrations
 - Bucket Protocol
 - Strater
