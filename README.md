@@ -1,7 +1,7 @@
 ## What is LiquidLink?
 ![liquidlink](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/bc34b63d-585b-4579-8399-737000bc13a9)
 
-LiquidLink is revolutionizing the Sui ecosystem with an innovative platform that promotes community growth and engagement. With features like the on-chain data tracking, portfolio management tool, point system leaderboard, and SocialFi features, our platform enhances interactions, cultivates transparency, and fosters shared growth. This empowers users to create a more connected and rewarding community experience within the Web 3.0 ecosystem.
+LiquidLink is revolutionizing the Sui ecosystem with an innovative platform that promotes community growth and engagement. With features like on-chain data tracking, portfolio management tool, point system leaderboard, and SocialFi features, our platform enhances interactions, cultivates transparency, and fosters shared growth. This empowers users to create a more connected and rewarding community experience within the Web 3.0 ecosystem.
 
 **Problem**: Lack of effective data-gathering tools and community engagement platforms within the Sui ecosystem inhibits growth and connectivity.
 
@@ -9,7 +9,7 @@ LiquidLink is revolutionizing the Sui ecosystem with an innovative platform that
 
 ## Target Audience
 1. **Start-ups and protocols within the SUI ecosystem**: All-in-one Defi tool platform to highlight the role of the profile Soul Bond NFT, helping Defi users track their records and on-chain activities seamlessly.
-2. **GameFi, NFT projects, and other major DeFi protocols**: Customizable Rewards Systems & Leaderboards that enhance gameplay experience, boost users retention, and increase project visibility.
+2. **GameFi, NFT projects, and other major DeFi protocols**: Customizable Rewards Systems & Leaderboards that enhance the gameplay experience, boost user retention and increase project visibility.
 
     For example, a GameFi project could use LiquidLink to create a dynamic leaderboard that rewards top players with unique NFTs or tokens, making the gaming experience both competitive and rewarding. 
 
@@ -78,21 +78,21 @@ LiquidLink aspires to become the premier universal profile system within the ove
 
 We’ve extended the possible features to our profile NFT on contract side and build the all-in-one Defi tool platform to highlight the role of the profile Soul Bond NFT. 
 
-Instead of tracking the point for each protocol, from now on, each NFT can allow storing kinds of assets, recording customized data for each protocol & different assets and support social related activities. 
+Instead of tracking the point for each protocol, from now on, each NFT can allow storing kinds of assets, recording customized data for each protocol & different assets, and supporting social-related activities. 
 
 - Profile
-    - Each address can only have single unique profile NFT as a Soul Bond NFT.
+    - Each address can only have a single unique profile NFT as a Soul Bond NFT.
     - Bounded with your bios and multiple social links.
 - POP ( Protocol Owned Points )
-    - Each protocol can setup their desired & customized data schema for each profile and quantify these actions off-chain as a point system.
-    - Each points under different category is handled separately and internally, meaning points generated from different protocols is untouchable, only registered protocol and profile owner can modify the data & consume the point. this design guarantee the security, decentralization and ownership to points.
+    - Each protocol can set up its desired & customized data schema for each profile and quantify these actions off-chain as a point system.
+    - Each points under different category is handled separately and internally, meaning points generated from different protocols is untouchable, only registered protocol and profile owner can modify the data & consume the point. This design guarantees the security, decentralization, and ownership of points.
 - Assets Management
-    - Each profile NFT can be top up with diverse assets to compatible with future possible features
+    - Each profile NFT can be topped up with diverse assets to compatible with future possible features
 - SocialFi Element
-    - Different profile NFT can be granted with different relationship to support future social feature such as following & referral.
+    - Different profile NFTs can be granted with different relationships to support future social features such as following & referral.
 
 ## Partnerships and Integrations
-- Integration with Sui ecocsystem
+- Integration with Sui ecosystem
     - Bucket Protocol
     - Aftermath
     - Cetus
@@ -148,7 +148,7 @@ Feature:
 - Portfolio tracking
 - investment/ strategy evaluation
 
-## 2025 Q1 (JAN-MAR)
+### 2025 Q1 (JAN-MAR)
 
 **Expansion and Integration**
 
