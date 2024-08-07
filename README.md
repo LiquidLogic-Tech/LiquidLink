@@ -42,7 +42,7 @@ LiquidLink aspires to become the premier universal profile system within the ove
 
 ## Product Features
 
-![key features](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/31684bce-84af-4bc8-b0e9-57613f6ff752)
+![key features](https://github.com/LiquidLogic-Tech/LiquidLink/blob/main/assets/key-fearures.jpeg)
 
 1. **One Stop Defi tool platform**: We leverage Sui's Programable Transaction Block and its fast transaction execution to provide better user experience for onchain Defi users, all the users can interact with protocols and look up their own portfolio in one platform without repetitive actions going to difference protoocls.
 2. **Point System**:
@@ -66,7 +66,7 @@ LiquidLink aspires to become the premier universal profile system within the ove
 
 ## Discover the Benefits of Integrating with LiquidLink
 
-![why integrate with liquidlink](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/7a592a0a-e8a5-4c9b-bbc4-6429141badd2)
+![why integrate with liquidlink](https://github.com/LiquidLogic-Tech/LiquidLink/blob/main/assets/feature.jpeg)
 
 - Enhanced User Engagement: Leaderboard scoring and referral systems encourage active participation and community involvement. Additionally, NFC cards and stickers facilitate effortless social and network exchanges, further enhancing user experience.
 
@@ -82,7 +82,7 @@ LiquidLink aspires to become the premier universal profile system within the ove
 
 ## Unlocking Revenue Potential
 
-We’ve extended the possible features to our profile NFT on contract side and build the all-in-one Defi tool platform to highlight the role of the profile Soul Bond NFT.
+We’ve extended the possible features to our profile NFT on the contract side and built the all-in-one Defi tool platform to highlight the role of the profile Soul Bond NFT.
 
 Instead of tracking the point for each protocol, from now on, each NFT can allow storing kinds of assets, recording customized data for each protocol & different assets, and supporting social-related activities.
 
@@ -93,7 +93,7 @@ Instead of tracking the point for each protocol, from now on, each NFT can allow
   - Each protocol can set up its desired & customized data schema for each profile and quantify these actions off-chain as a point system.
   - Each points under different category is handled separately and internally, meaning points generated from different protocols is untouchable, only registered protocol and profile owner can modify the data & consume the point. This design guarantees the security, decentralization, and ownership of points.
 - Assets Management
-  - Each profile NFT can be topped up with diverse assets to compatible with future possible features
+  - Each profile NFT can be topped up with diverse assets to be compatible with future possible features
 - SocialFi Element
   - Different profile NFTs can be granted with different relationships to support future social features such as following & referral.
 
@@ -130,9 +130,9 @@ Instead of tracking the point for each protocol, from now on, each NFT can allow
 - LiquidLink addresses the clear need for effective community engagement tools within the Sui ecosystem, providing a platform that empowers users to connect and grow together.
 - By fostering transparency and shared growth, LiquidLink contributes to building stronger and more connected communities, ultimately enriching the user experience and driving positive impact within the digital landscape.
 
-## Roadmap / Milestone 2024
+## Roadmap 2024-2025
 
-![15](https://github.com/LiquidLogic-Tech/LiquidLink/assets/167733168/f9f1287a-369a-429e-b712-249097a39818)
+![15](https://github.com/LiquidLogic-Tech/LiquidLink/assets/blob/main/assets/roadmap.jpeg)
 
 ### 2024 Q3 (JUL-SEP)
 
