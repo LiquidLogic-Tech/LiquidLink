@@ -132,7 +132,7 @@ Instead of tracking the point for each protocol, from now on, each NFT can allow
 
 ## Roadmap 2024-2025
 
-![15](https://github.com/LiquidLogic-Tech/LiquidLink/assets/blob/main/assets/roadmap.jpeg)
+![Roadmap](https://github.com/LiquidLogic-Tech/LiquidLink/blob/main/assets/roadmap.jpeg)
 
 ### 2024 Q3 (JUL-SEP)
 
